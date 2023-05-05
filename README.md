@@ -12,7 +12,7 @@
   </li>
 </ul>
 
-<p>Up next, I intend to tackle:</p>
+<p>As I pursue an interest in game development, I intend to tackle:</p>
 <ul>
   <li>C++</li>
   <li>Unity</li>
