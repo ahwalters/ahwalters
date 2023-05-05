@@ -35,8 +35,7 @@
   <img src="https://user-images.githubusercontent.com/113622833/236495261-5e1bd582-c296-42f1-9d20-8ccddaa8ee3f.jpg" width="250" height="250">
 </p>
 
-
-<img src='https://user-images.githubusercontent.com/113622833/236500923-6c5ffe47-b43a-41e9-9951-8cbdb0185d98.jpeg' align="left" width="100" height="133"/>
+<img src='https://user-images.githubusercontent.com/113622833/236508236-18b9c1a3-0ed4-4c70-81ed-d02871a6d08b.jpeg' align="left" width="120" height="100"/>
 I started out learning to build my pc because I wanted to have the best pc on the market for running VR and other games. Then I wanted custom keyboards for that pc. From that interest in hardware, the interest in software developed and I learned web dev! And now here we are (: 
 <br clear="left"/>
 
@@ -55,7 +54,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<img src='https://user-images.githubusercontent.com/113622833/236500923-6c5ffe47-b43a-41e9-9951-8cbdb0185d98.jpeg' align="left" width="100" height="133"/>
 
 <img src='https://user-images.githubusercontent.com/113622833/236489133-28d2709e-3997-4b3c-a5da-7d8644f26ae0.png'>
 -->
