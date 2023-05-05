@@ -22,27 +22,22 @@
 
 
 
-<div>
   <h2>I'm a programmer, but I'm also a...</h2>
    <ul>
       <li>cat mom! 😸</li>
       <li>gamer 👀</li>
       <li>keyboard enthusiast ⌨️</li>
   </ul>
-</div>
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/113622833/236494824-11ec5b09-6fec-4961-8653-058492e67384.jpeg" width="250" height="250">
   <img src="https://user-images.githubusercontent.com/113622833/236495006-f23a46f1-c3fb-4b7b-b4b6-eaa4334adfeb.jpg" width="250" height="250">
   <img src="https://user-images.githubusercontent.com/113622833/236495261-5e1bd582-c296-42f1-9d20-8ccddaa8ee3f.jpg" width="250" height="250">
 </p>
-<div>
-  <img src='https://user-images.githubusercontent.com/113622833/236500923-6c5ffe47-b43a-41e9-9951-8cbdb0185d98.jpeg' width="300" height="400">
-  <p>I started out learning to build my pc because I wanted to have the best pc on the market for running VR and other games. Then I wanted custom keyboards for that pc. From that interest in hardware, the interest in software developed and I learned web dev! And now here we are (: </p>
-</div>
 
 
-
+<img src='https://user-images.githubusercontent.com/113622833/236500923-6c5ffe47-b43a-41e9-9951-8cbdb0185d98.jpeg' width="300" height="400"/>
+I started out learning to build my pc because I wanted to have the best pc on the market for running VR and other games. Then I wanted custom keyboards for that pc. From that interest in hardware, the interest in software developed and I learned web dev! And now here we are (: 
 
 
 
