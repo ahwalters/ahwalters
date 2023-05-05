@@ -36,8 +36,9 @@
 </p>
 
 
-<img src='https://user-images.githubusercontent.com/113622833/236500923-6c5ffe47-b43a-41e9-9951-8cbdb0185d98.jpeg' width="300" height="400"/>
+<img src='https://user-images.githubusercontent.com/113622833/236500923-6c5ffe47-b43a-41e9-9951-8cbdb0185d98.jpeg' align="left" width="300" height="400"/>
 I started out learning to build my pc because I wanted to have the best pc on the market for running VR and other games. Then I wanted custom keyboards for that pc. From that interest in hardware, the interest in software developed and I learned web dev! And now here we are (: 
+<br clear="left"/>
 
 
 
