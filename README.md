@@ -1,5 +1,9 @@
 <h1 style="font-weight: bold">Hii I'm Alana 💕</h1>
 <h2>A Full Stack Web Developer proficient in JS, React, Python, and more...</h2>
+<p>Some skills include:</p>
+<ul>
+  <li>React.js, Redux, Hooks, Context API, Jest, Cypress, Yup, Axios, JavaScript, HTML, CSS, Ant Design, Node.js, Express, SQL, PostgreSQL, Python, Git CLI</li>
+</ul>
 
 <p>I'm currenty working on a webiste for a podcast called Girls Who F1! (:</p>
 <a href='https://github.com/ahwalters/girls-who-f1'>Check out my progress here!</a>
