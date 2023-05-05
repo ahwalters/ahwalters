@@ -37,7 +37,9 @@
 
 
 <img src='https://user-images.githubusercontent.com/113622833/236508236-18b9c1a3-0ed4-4c70-81ed-d02871a6d08b.jpeg' align="right" width="240" height="200"/>
-I started out learning to build my pc because I wanted to have the best pc on the market for running</br> VR and other games. Then I wanted custom keyboards for that pc. From that interest in hardware,</br> the interest in software developed and I learned web dev! And now here we are (:
+I started out learning to build my pc because I wanted to have the best pc on the market for running VR and other games. Then I wanted custom keyboards for that pc. From that interest in hardware, the interest in software developed and I learned web dev! And now here we are (:
+
+
 
 
 
@@ -57,7 +59,7 @@ Here are some ideas to get you started:
 <img src='https://user-images.githubusercontent.com/113622833/236500923-6c5ffe47-b43a-41e9-9951-8cbdb0185d98.jpeg' align="left"/>
 
 <img src='https://user-images.githubusercontent.com/113622833/236489133-28d2709e-3997-4b3c-a5da-7d8644f26ae0.png'>
-
+<h3>Reach me at:</h3>
 
 </br>
 <img src='https://user-images.githubusercontent.com/113622833/236508236-18b9c1a3-0ed4-4c70-81ed-d02871a6d08b.jpeg' align="left" width="120" height="100" />
