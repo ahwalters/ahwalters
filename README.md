@@ -6,8 +6,18 @@
 </ul>
 
 <p>I'm currenty working on a webiste for a podcast called Girls Who F1! (:</p>
-<a href='https://github.com/ahwalters/girls-who-f1'>Check out my progress here!</a>
+<ul>
+  <li>
+    <a href='https://github.com/ahwalters/girls-who-f1'>Check out my progress here!</a>
+  </li>
+</ul>
 
+<p>Up next, I intend to tackle</p>
+<ul>
+  <li>C++</li>
+  <li>Unity</li>
+  <li>C#</li>
+</ul>
 
 
 
