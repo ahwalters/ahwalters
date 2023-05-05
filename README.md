@@ -1,5 +1,13 @@
 <h1 style="font-weight: bold">Hii I'm Alana 💕</h1>
 <h2>A Full Stack Web Developer proficient in JS, React, Python, and more...</h2>
+
+<p>I'm currenty working on a webiste for a podcast that's all about F1 and is run by women (:</p>
+<a>href='https://github.com/ahwalters/girls-who-f1'</a>
+
+
+
+
+
 <div>
   <p>I'm a programmer, but I'm also a...</p>
    <ul>
@@ -17,10 +25,10 @@
 <div>
   <p>I started out learning to build my pc because I wanted to have the best pc on the market for running VR and other games. Then I wanted custom keyboards for that pc. From that interest in hardware, the interest in software developed and I learned web dev! And now here we are (: </p>
 </div>
-
-<img src='https://user-images.githubusercontent.com/113622833/236489133-28d2709e-3997-4b3c-a5da-7d8644f26ae0.png' width="300" height="400">
-
 <img src='https://user-images.githubusercontent.com/113622833/236500923-6c5ffe47-b43a-41e9-9951-8cbdb0185d98.jpeg' width="300" height="400">
+
+
+
 
 
 <!--
@@ -36,4 +44,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<img src='https://user-images.githubusercontent.com/113622833/236489133-28d2709e-3997-4b3c-a5da-7d8644f26ae0.png'>
 -->
