@@ -8,6 +8,17 @@
 <p style="font-weight: bold">I'm currenty working on a webiste for a podcast called Girls Who F1! (:</p>
 <ul>
   <li>
+    The purpose of this platform that I'm building is to allow a podcast team to display their pertinent information and podcasts to attract listeners
+</li>
+  <li>
+    I'm implementing page components into a web application to allow clients to listen to Spotify on the web application and see relative F1 information
+  </li>
+  <li>
+    I'm creating an admin portal with login authentication using FireBase to allow website owners to upload podcasts and alter website information
+Used testing methods to ensure all components and links work as intended
+  </li>
+  <li>I have lots of other fun stuff planned...</li>
+  <li>
     <a href='https://github.com/ahwalters/girls-who-f1' >Check out my progress here!</a>
   </li>
 </ul>
