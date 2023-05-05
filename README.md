@@ -5,14 +5,14 @@
   <li>React.js, Redux, Hooks, Context API, Jest, Cypress, Yup, Axios, JavaScript, HTML, CSS, Ant Design, Node.js, Express, SQL, PostgreSQL, Python, Git CLI</li>
 </ul>
 
-<p>I'm currenty working on a webiste for a podcast called Girls Who F1! (:</p>
+<p style="font-weight: bold">I'm currenty working on a webiste for a podcast called Girls Who F1! (:</p>
 <ul>
   <li>
-    <a href='https://github.com/ahwalters/girls-who-f1'>Check out my progress here!</a>
+    <a href='https://github.com/ahwalters/girls-who-f1' >Check out my progress here!</a>
   </li>
 </ul>
 
-<p>Up next, I intend to tackle</p>
+<p>Up next, I intend to tackle:</p>
 <ul>
   <li>C++</li>
   <li>Unity</li>
