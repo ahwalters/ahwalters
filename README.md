@@ -40,7 +40,7 @@
 <br clear="left"/>
 
 <div>
-  <img style="vertical-align:middle" src="[https://placehold.it/60x60](https://user-images.githubusercontent.com/113622833/236508236-18b9c1a3-0ed4-4c70-81ed-d02871a6d08b.jpeg)">
+  <img style="vertical-align:middle" src="https://user-images.githubusercontent.com/113622833/236508236-18b9c1a3-0ed4-4c70-81ed-d02871a6d08b.jpeg">
   <span style="">I started out learning to build my pc because I wanted to have the best pc on the market for running VR and other games. Then I wanted custom keyboards for that pc. From that interest in hardware, the interest in software developed and I learned web dev! And now here we are (:</span>
 </div>
 
