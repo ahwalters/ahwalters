@@ -36,9 +36,10 @@
 </p>
 
 
-<img src='https://user-images.githubusercontent.com/113622833/236508236-18b9c1a3-0ed4-4c70-81ed-d02871a6d08b.jpeg' align="right" width="180" height="150" margin-right="50"/>
+<img src='https://user-images.githubusercontent.com/113622833/236527947-1ae3492c-e9f8-486b-9875-772470fe02e3.jpeg' align="right" width="180" height="150" margin-right="50"/>
 <br><br>I started out learning to build my pc because I wanted to have the best pc on the market for running VR and other games. Then I wanted custom keyboards for that pc. From that interest in hardware, the interest in software developed and I learned web dev! And now here we are (:
 
+![IMG_1233](https://user-images.githubusercontent.com/113622833/236527947-1ae3492c-e9f8-486b-9875-772470fe02e3.jpeg)
 
 
 
@@ -70,4 +71,6 @@ Here are some ideas to get you started:
   <img style="vertical-align:middle" src="https://user-images.githubusercontent.com/113622833/236508236-18b9c1a3-0ed4-4c70-81ed-d02871a6d08b.jpeg" width='240' height='200'margin-right='50'>
   <span style="">I started out learning to build my pc because I wanted to have the best pc on the market for running VR and other games. Then I wanted custom keyboards for that pc. From that interest in hardware, the interest in software developed and I learned web dev! And now here we are (:</span>
 </div>
+
+<img src='https://user-images.githubusercontent.com/113622833/236508236-18b9c1a3-0ed4-4c70-81ed-d02871a6d08b.jpeg' align="right" width="180" height="150" margin-right="50"/>
 -->
