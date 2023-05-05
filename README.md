@@ -1,15 +1,15 @@
 <h1 style="font-weight: bold">Hii I'm Alana 💕</h1>
 <h2>A Full Stack Web Developer proficient in JS, React, Python, and more...</h2>
 
-<p>I'm currenty working on a webiste for a podcast that's all about F1 and is run by women (:</p>
-<a>href='https://github.com/ahwalters/girls-who-f1'</a>
+<p>I'm currenty working on a webiste for a podcast called Girls Who F1! (:</p>
+<a href='https://github.com/ahwalters/girls-who-f1'>Check out my progress here!</a>
 
 
 
 
 
 <div>
-  <p>I'm a programmer, but I'm also a...</p>
+  <h2>I'm a programmer, but I'm also a...</h2>
    <ul>
       <li>cat mom! 😸</li>
       <li>gamer 👀</li>
