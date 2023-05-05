@@ -42,15 +42,24 @@ Used testing methods to ensure all components and links work as intended
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/113622833/236494824-11ec5b09-6fec-4961-8653-058492e67384.jpeg" width="250" height="250">
+  <img src="https://user-images.githubusercontent.com/113622833/236527947-1ae3492c-e9f8-486b-9875-772470fe02e3.jpe" width="250" height="250">
+  <img src="https://user-images.githubusercontent.com/113622833/236495261-5e1bd582-c296-42f1-9d20-8ccddaa8ee3f.jpg" width="250" height="250">
+</p>
+
+
+
+<!--
+
+<img src='https://user-images.githubusercontent.com/113622833/236527947-1ae3492c-e9f8-486b-9875-772470fe02e3.jpeg' align="right" width="180" height="150" margin-right="50"/>
+<br><br>I started out learning to build my pc because I wanted to have the best pc on the market for running VR and other games. Then I wanted custom keyboards for that pc. From that interest in hardware, the interest in software developed and I learned web dev! And now here we are (:
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/113622833/236494824-11ec5b09-6fec-4961-8653-058492e67384.jpeg" width="250" height="250">
   <img src="https://user-images.githubusercontent.com/113622833/236495006-f23a46f1-c3fb-4b7b-b4b6-eaa4334adfeb.jpg" width="250" height="250">
   <img src="https://user-images.githubusercontent.com/113622833/236495261-5e1bd582-c296-42f1-9d20-8ccddaa8ee3f.jpg" width="250" height="250">
 </p>
 
 
-<img src='https://user-images.githubusercontent.com/113622833/236527947-1ae3492c-e9f8-486b-9875-772470fe02e3.jpeg' align="right" width="180" height="150" margin-right="50"/>
-<br><br>I started out learning to build my pc because I wanted to have the best pc on the market for running VR and other games. Then I wanted custom keyboards for that pc. From that interest in hardware, the interest in software developed and I learned web dev! And now here we are (:
-
-<!--
 **ahwalters/ahwalters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
