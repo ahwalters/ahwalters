@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/113622833/236489384-0ee6ae4b-f4c1-4ddf-af47-82cc4b9fd935.jpeg" width="200" height="200">
-<img src="https://user-images.githubusercontent.com/113622833/236489445-a5b95dd5-b196-468d-8b55-1073bd01c466.jpeg" width="200" height="200">
-<img src="https://user-images.githubusercontent.com/113622833/236489534-3e02ae35-9ebe-476c-a204-8b57dbeb74fd.jpeg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/113622833/236494824-11ec5b09-6fec-4961-8653-058492e67384.jpeg" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/113622833/236495006-f23a46f1-c3fb-4b7b-b4b6-eaa4334adfeb.jpg" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/113622833/236495261-5e1bd582-c296-42f1-9d20-8ccddaa8ee3f.jpg" width="300" height="300">
  ### Hii I'm Alana 💕
 
 ![Capture3](https://user-images.githubusercontent.com/113622833/236489133-28d2709e-3997-4b3c-a5da-7d8644f26ae0.png)
